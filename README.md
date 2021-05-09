@@ -1,4 +1,4 @@
-# cowin app clien Java
+# cowin app client Java
 Co-WIN Public APIs
 Co-WIN Public APIs to find appointment availabilty and to download vaccination certificates.
 These APIs are available for use by all third party applications.
